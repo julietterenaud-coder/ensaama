@@ -1,5 +1,3 @@
-# Juliette
+## Juliette
 
-## labyrinthe
-* [l'équipe](./laby22.html)
-
+### [labyrinthe v0](./labyrinthe/laby22.html)
