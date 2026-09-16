@@ -1,4 +1,4 @@
 # DNMADE2
 
 ##labyrinthe
-*[l'équipe](./laby22.html)
+* [l'équipe](./laby22.html)
